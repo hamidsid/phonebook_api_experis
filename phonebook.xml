@@ -1,0 +1,21 @@
+<PhoneBook>
+    <contact id="111">
+        <FirstName>Hamid</FirstName>
+        <LastName>Chilton</LastName>
+        <email>Chilton@gmail.com</email>
+        <phoneNo>0734556655</phoneNo>
+    </contact>
+    <contact id="222">
+        <FirstName>Maria</FirstName>
+        <LastName>Persson</LastName>
+        <email>persson@gmail.com</email>
+        <phoneNo>07554566</phoneNo>
+    </contact>
+    <contact id="333">
+        <FirstName>Micheal</FirstName>
+        <LastName>Clark</LastName>
+        <email>clark@gmail.com</email>
+        <phoneNo>07334567890</phoneNo>
+    </contact>
+</PhoneBook>
+
