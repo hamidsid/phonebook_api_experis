@@ -46,7 +46,7 @@ phonebook.xml:
 ```
 Sample output:
 ```
-go to http://localhost:8080/contacts/all
+go to:  http://localhost:8080/contacts/all
 
 the sample output of contacts in Json would be as following: 
 
